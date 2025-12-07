@@ -1,0 +1,7 @@
+streamlit 
+transformers
+torch 
+sentencepiece # Bắt buộc cho PhoBERT
+underthesea
+protobuf
+scipy 
